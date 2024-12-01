@@ -1,2 +1,1 @@
-# Eval_HTML-JS-Exo
-les exercises demander
+Les videos sont dans le fichier Videos!
